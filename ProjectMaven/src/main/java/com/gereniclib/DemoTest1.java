@@ -1,6 +1,6 @@
 package com.gereniclib;
 
-public class  DemoTest1
+public class DemoTest1
 {
 	
 
