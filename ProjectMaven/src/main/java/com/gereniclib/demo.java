@@ -5,5 +5,6 @@ private void Syso() {
 	// TODO Auto-generated method stub
 System.out.print("fvhbdvj");
 System.out.println("bulla");
+System.out.println("bulla");
 }
 }
